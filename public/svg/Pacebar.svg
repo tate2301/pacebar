@@ -1,8 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>512x512@1x</title>
-    <g id="512x512" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <rect id="Rectangle" fill="#000000" transform="translate(266.672131, 443.173770) rotate(90.000000) translate(-266.672131, -443.173770) " x="197.845902" y="279.501639" width="137.652459" height="327.344262" rx="68.8262295"></rect>
-        <circle id="Oval" fill="#000000" cx="266.672131" cy="163.672131" r="163.672131"></circle>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 512 512"><title>512x512@1x</title><g id="512x512" fill="none" fill-rule="evenodd" stroke="none" stroke-width="1"><rect id="Rectangle" width="137.652" height="327.344" x="197.846" y="279.502" fill="#000" rx="68.826" transform="translate(266.672131, 443.173770) rotate(90.000000) translate(-266.672131, -443.173770)"/><circle id="Oval" cx="266.672" cy="163.672" r="163.672" fill="#000"/></g></svg>
